@@ -1,0 +1,42 @@
+<EXPENSES>
+    <Month id="October">
+        <food>354</food>
+        <out>322</out>
+        <other>90</other>
+    </Month>
+    <Month id="September">
+        <food>386</food>
+        <out>208</out>
+        <other>138</other>
+    </Month>
+    <Month id="August">
+        <food>192</food>
+        <out>218</out>
+        <other>176</other>
+    </Month>
+    <Month id="July">
+        <food>410</food>
+        <out>543</out>
+        <other>159</other>
+    </Month>
+    <Month id="June">
+        <food>452</food>
+        <out>149</out>
+        <other>0</other>
+    </Month>
+    <Month id="May">
+        <food>359</food>
+        <out>251</out>
+        <other>60</other>
+    </Month>
+    <Month id="April">
+        <food>409</food>
+        <out>255</out>
+        <other>86</other>
+    </Month>
+    <Month id="March">
+        <food>382</food>
+        <out>389</out>
+        <other>0</other>
+    </Month>
+</EXPENSES>
