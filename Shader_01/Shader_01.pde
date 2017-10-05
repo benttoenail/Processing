@@ -3,17 +3,18 @@ PShader shader;
 
 void setup()
 {
-  size(640, 360, P2D);
+  size(900, 900, P2D);
   noStroke();
 
-  shader = loadShader("shader.frag");
+  shader = loadShader("lightexplosion.frag");
 }
 
 void draw()
 {
   SetShaderProps();
-  
   rect(0, 0, width, height);
+  
+  //saveFrame("lightExplosion_####.png");
 }
 
 void SetShaderProps()
