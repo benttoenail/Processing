@@ -6,7 +6,7 @@ void setup()
   size(900, 900, P2D);
   noStroke();
 
-  shader = loadShader("lightexplosion.frag");
+  shader = loadShader("flower.frag");
 }
 
 void draw()
@@ -14,7 +14,7 @@ void draw()
   SetShaderProps();
   rect(0, 0, width, height);
   
-  //saveFrame("lightExplosion_####.png");
+  saveFrame("flower_####.png");
 }
 
 void SetShaderProps()
